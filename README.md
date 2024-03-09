@@ -4,8 +4,8 @@
 run in your terminal:
 
 ```
-git clone https://github.com/n0l3r/tiktok-downloader.git
-cd tiktok-downloader
+git clone https://github.com/cyruxy/tiktok-downloader-js.git
+cd tiktok-downloader-js
 npm i
 node index
 ```
